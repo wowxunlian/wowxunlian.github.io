@@ -1,3 +1,5 @@
+快速让整个公会成员掌握首领击杀方法及战术，相信我，这比PTR服务器更加高效。
+
 ## 公会训练服务端
 
 You can use the [editor on GitHub](https://github.com/wowxunlian/wowxunlian.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
