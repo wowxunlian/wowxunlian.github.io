@@ -5,10 +5,8 @@
 灭团不必跑尸体，一秒就可以全部站起来，对，这是个瞬发法术！而且，可以在战斗中使用，大幅度提高团队训练效率！
 ![WoWScrnShot_122221_204718](https://user-images.githubusercontent.com/96529319/147234669-06d3b6af-2d28-44ca-9a20-76aad6c10dd7.jpg)
 
-```markdown
 # 配装NPC
 ![WoWScrnShot_122321_194515](https://user-images.githubusercontent.com/96529319/147240646-8d74abd9-a94e-4465-8b24-14bc48de308a.jpg)
-```
 
 # 训练假人
 对它使用/wave可以查看战斗数据喔！
