@@ -13,22 +13,25 @@
 
 # 功能强大的自定义NPC
 一键学专业（及所有配方）、一键穿齐所有BIS（各天赋BIS不同），玩家自行添加道具等功能。
-![WoWScrnShot_122321_195032](https://user-images.githubusercontent.com/96529319/147241103-d72a5713-9b69-476d-93d5-c2292c3ec3bc.jpg)
+![WoWScrnShot_122321_195032_看图王](https://user-images.githubusercontent.com/96529319/147242409-38297c10-743d-49ee-b31c-b1e07d2a5e79.jpg)
 
 # 自定义任务
 不光有自定义任务，您也可以自定义NPC。
-![WoWScrnShot_122321_201909](https://user-images.githubusercontent.com/96529319/147241149-6ee4e614-3fad-4273-8fef-290451ce28cc.jpg)
+![WoWScrnShot_122321_201909_看图王](https://user-images.githubusercontent.com/96529319/147242379-baaa5f4e-2af6-448f-bfde-1ccc4caae87d.jpg)
+
 
 # 自定义装备
 酷炫。无需多言。
 ![WoWScrnShot_122321_202042](https://user-images.githubusercontent.com/96529319/147241186-6396bdae-5419-47ab-bfe0-bb1a2c713a07.jpg)
 
 # 自助附魔师
-![WoWScrnShot_122321_203820](https://user-images.githubusercontent.com/96529319/147241827-28f010c7-2899-48e2-8833-a72e70ecda82.jpg)
+![WoWScrnShot_122321_203820_看图王](https://user-images.githubusercontent.com/96529319/147242365-a0e088d8-e47c-4fb2-8784-e03f72c7580f.jpg)
+
 
 # 随身助手
 他买的是各种药及补给品。
-![WoWScrnShot_122321_203934](https://user-images.githubusercontent.com/96529319/147241857-a705c24b-1942-4919-a8d1-b8b055f9ec5a.jpg)
+![WoWScrnShot_122321_203934_看图王](https://user-images.githubusercontent.com/96529319/147242350-f2ed0da7-d564-4c17-851a-fc50d741bc0c.jpg)
+
 
 # 全汉化
 不像其他端各种英文，这里你看不到英文，随便举几个例子：猎人抓宠物时默认名称，我们是中文，当你切换地区时频道，各频道的名称，我们是中文，至于副本中的首领及小怪的台词，当然也是中文的啦！
