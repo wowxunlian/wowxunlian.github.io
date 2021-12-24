@@ -30,7 +30,7 @@
 
 
 # 随身助手
-他买的是各种药及补给品。
+他卖的是各种药及补给品。
 ![WoWScrnShot_122321_203934_看图王](https://user-images.githubusercontent.com/96529319/147242350-f2ed0da7-d564-4c17-851a-fc50d741bc0c.jpg)
 
 
