@@ -1,5 +1,6 @@
 ## 公会训练服务端
-快速让整个公会成员掌握首领击杀方法及战术，相信我，这比PTR服务器更加高效。
+快速让整个公会成员掌握首领击杀方法及战术，相信我，这比PTR服务器更加高效。  
+
 [更新日志](https://github.com/wowxunlian/wowxunlian.github.io/discussions)
 
 # 群体复活
