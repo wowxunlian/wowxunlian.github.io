@@ -47,6 +47,6 @@
 等你来探索。
 
 ```markdown
-Discord：wowxunlian#0060
+QQ：2558798291
 欢迎咨询、测试。
 ```
