@@ -4,11 +4,11 @@
 - 所有奥杜尔装备已经按照怀旧服进行了装等及属性提升（含T8）。
  
 ## 职业：
+- 猎人天赋“荷枪实弹”被“献祭陷阱”、“爆炸陷阱”、“黑箭”触发的几率大幅度提高，该改动参照官服。
 - 圣骑士的十字军打击及神圣风暴可以触发“腐蚀圣印”（“复仇圣印”）了。<a href="https://www.bilibili.com/video/BV1TueZeXEif/?spm_id_from=333.999.0.0" target="_blank">[视频]</a>
 - 圣骑士雕文“清算符文”添加成功。<a href="https://www.bilibili.com/video/BV1TueZeXEif/?spm_id_from=333.999.0.0" target="_blank">[视频]</a>
 - 德鲁伊雕文“清晰预兆雕文”添加成功。<a href="https://www.bilibili.com/video/BV17s8be5EKJ/?spm_id_from=333.999.0.0" target="_blank">[视频]</a>
 - 猎人技能“陷阱发射器：爆炸陷阱”添加成功。<a href="https://www.bilibili.com/video/BV1Lz8cecEAx/?spm_id_from=333.999.0.0" target="_blank">[视频]</a>
-- 猎人天赋“荷枪实弹”被“献祭陷阱”、“爆炸陷阱”、“黑箭”触发的几率大幅度提高，该改动参照官服。
 - 注意：以上3条需小黑兔3.4.3客户端。
   
 ## 奥杜尔：
